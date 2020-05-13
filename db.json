@@ -1,0 +1,94 @@
+{
+    "bugs": [
+        {
+            "name": "piéride de la rave",
+            "location": "Flying",
+            "rarity": "Common",
+            "price": 160,
+            "icon": "http://acnhapi.com/icons/bugs/1",
+            "image": "http://acnhapi.com/images/bugs/1",
+            "catch-phrase": "I caught a common butterfly! They often flutter by!"
+        },
+        {
+            "name": "citrin",
+            "location": "Flying",
+            "rarity": "Common",
+            "price": 160,
+            "icon": "http://acnhapi.com/icons/bugs/2",
+            "image": "http://acnhapi.com/images/bugs/2",
+            "catch-phrase": "I caught a yellow butterfly! Shouldn't all BUTTERflies be yellow?"
+        },
+        {
+            "name": "machaon",
+            "location": "Flying",
+            "rarity": "Common",
+            "price": 240,
+            "icon": "http://acnhapi.com/icons/bugs/3",
+            "image": "http://acnhapi.com/images/bugs/3",
+            "catch-phrase": "I caught a tiger butterfly! I've earned my stripes!"
+        },
+        {
+            "name": "papilio bianor",
+            "location": "Flying near hybrid flowers",
+            "rarity": "Uncommon",
+            "price": 2500,
+            "icon": "http://acnhapi.com/icons/bugs/4",
+            "image": "http://acnhapi.com/images/bugs/4",
+            "catch-phrase": "I caught a peacock butterfly! Now it's my turn to strut my stuff!"
+        },
+        {
+            "name": "graphium sarpedon",
+            "location": "Flying",
+            "rarity": "Common",
+            "price": 300,
+            "icon": "http://acnhapi.com/icons/bugs/5",
+            "image": "http://acnhapi.com/images/bugs/5",
+            "catch-phrase": "I caught a common bluebottle! I'll put it in a rare green jar!"
+        },
+        {
+            "name": "grand planeur",
+            "location": "Flying",
+            "rarity": "Common",
+            "price": 1000,
+            "icon": "http://acnhapi.com/icons/bugs/6",
+            "image": "http://acnhapi.com/images/bugs/6",
+            "catch-phrase": "I caught a paper kite butterfly! Do I read it, fly it, or spreadit on toast?"
+        },
+        {
+            "name": "sasakia charonda",
+            "location": "Flying",
+            "rarity": "Rare",
+            "price": 3000,
+            "icon": "http://acnhapi.com/icons/bugs/7",
+            "image": "http://acnhapi.com/images/bugs/7",
+            "catch-phrase": "I caught a great purple emperor! Its purple reign is over now!"
+        },
+        {
+            "name": "monarque",
+            "location": "Flying",
+            "rarity": "Common",
+            "price": 140,
+            "icon": "http://acnhapi.com/icons/bugs/8",
+            "image": "http://acnhapi.com/images/bugs/8",
+            "catch-phrase": "I caught a monarch butterfly! Guess the butterflies are a democracy now!"
+        },
+        {
+            "name": "morpho bleu",
+            "location": "Flying",
+            "rarity": "Uncommon",
+            "price": 4000,
+            "icon": "http://acnhapi.com/icons/bugs/9",
+            "image": "http://acnhapi.com/images/bugs/9",
+            "catch-phrase": "I caught an emperor butterfly! It's not your average monarch!"
+        },
+        {
+            "name": "agrias",
+            "location": "Flying",
+            "rarity": "Uncommon",
+            "price": 3000,
+            "icon": "http://acnhapi.com/icons/bugs/10",
+            "image": "http://acnhapi.com/icmagesbugs/10",
+            "catch-phrase": "I caught an agrias butterfly! I wonder if it finds me disagrias-able?"
+        }
+    ]
+}
